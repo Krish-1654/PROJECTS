@@ -1,0 +1,44 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.fst{
+    height: 80vh;
+}
+.fst .fst-1{
+    height: 100%;
+}
+.fst .fst-2{
+    height: 50%;
+}
+.fst-1 .fst-i1{
+    background: url(img/category-1.jpg.webp);
+    height: 100%;
+    background-position: center;
+    background-size: cover;
+}
+.fst-1 .fst-i2{
+    background: url(img/category-2.jpg.webp);
+    height: 100%;
+    background-position: center;
+    background-size: cover;
+}
+.fst-1 .fst-i3{
+    background: url(img/category-3.jpg.webp);
+    height: 100%;
+    background-position: center;
+    background-size: cover;
+}
+.fst-1 .fst-i4{
+    background: url(img/category-4.jpg.webp);
+    height: 100%;
+    background-position: center;
+    background-size: cover;
+}
+.fst-1 .fst-i5{
+    background: url(img/category-5.jpg.webp);
+    height: 100%;
+    background-position: center;
+    background-size: cover;
+}
